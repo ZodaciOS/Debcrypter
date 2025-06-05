@@ -1,0 +1,9 @@
+Package: com.yourname.debgrabber
+Name: DebGrabber
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: CLI to extract tweak .debs using bundle ID from repos
+Maintainer: Your Name
+Author: Your Name
+Section: Utilities
+Depends: firmware (>= 15.0)
