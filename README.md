@@ -11,4 +11,4 @@ Debcrypter should not be used for extracting paid tweaks which is pirating. Dist
 
 # Unreliable
 
-Some tweaks may not be able to be complied successfully. If that does happen, try with another tweak.
+Some tweaks may not be able to be complied successfully. If that does happen, try with another tweak. This happens because Debcrypter cannot complie packages that may be paid or listed on a private repo.
