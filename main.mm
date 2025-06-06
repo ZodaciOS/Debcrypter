@@ -14,14 +14,14 @@ namespace fs = std::filesystem;
 #define RESET  "\033[0m"
 
 void printBanner() {
-    cout << YELLOW << "\n🚀 DebGrabber CLI — Extract tweaks by Bundle ID\n" << RESET;
+    cout << YELLOW << "\n🚀 Debcrypter CLI — Extract tweaks by Bundle ID\n" << RESET;
 }
 
 int main(int argc, char* argv[]) {
     printBanner();
 
     if (argc != 2) {
-        cout << RED << "Usage: DebGrabber <bundle_id>" << RESET << endl;
+        cout << RED << "Usage: Debcrypter <bundle_id>" << RESET << endl;
         return 1;
     }
 
