@@ -7,9 +7,8 @@ Debcrypter is a CLI tool to extract the .deb files of installed repos via APT. Y
 
 # Disclaimer
 
-Debcrypter should not be used for pirating or maliciously. **This tool is strictly for education purposes only.** 
+Debcrypter should not be used for extracting paid tweaks which is pirating. Distribution of pirated paid tweaks is illegal. **This tool is strictly for education purposes only.** 
 
-# Building
+# Unreliable
 
-Ensure you have theos installed.
-
+Some tweaks may not be able to be complied successfully. If that does happen, try with another tweak.
