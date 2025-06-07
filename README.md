@@ -12,3 +12,7 @@ Debcrypter should not be used for extracting paid tweaks which is pirating. Dist
 # Unreliable
 
 Some tweaks may not be able to be complied successfully. If that does happen, try with another tweak. This happens because Debcrypter cannot complie packages that may be paid or listed on a private repo.
+
+# Issues/Concerns?
+
+I most likely wont respond to any created issues as this tweak was created for educational purposes and for my practice of using objective-c. 
